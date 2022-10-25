@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammed
 - 👀 I’m interested in Learning and exploring blockchain technologies.
 - 🌱 I’m currently learning Web3, Solidity, Blockchain, Cryptography, ZK-Snarks
-- 💞️ I’m looking to collaborate on Smart contract, DAOs DeFi NFT projects on Ethereum. 
+- 💞️ I’m looking to collaborate on Smart contract, DAOs, DeFi, and NFT projects on Ethereum. 
 - 📫 How to reach me @myaiassistant on Twitter.
 
 <!---
